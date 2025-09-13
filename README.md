@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-streamlit run cifar_trainer&inference_ui_cut.py
+streamlit run cifar_trainer^&inference_ui_cut.py
 ```
 
 ## Model Performance
