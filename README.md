@@ -45,7 +45,7 @@ streamlit run cifar_trainer&inference_ui_cut.py
 - 50 epochs: ~93-95% accuracy
 - 200 epochs: >95% accuracy
 
-![Figure_1](pic\Figure_1.png)
+![Figure_1](pic/Figure_1.png)
 
 ### CIFAR-100
 - 50 epochs: ~70-75% accuracy
