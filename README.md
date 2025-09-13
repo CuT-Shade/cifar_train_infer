@@ -61,4 +61,4 @@ streamlit run cifar_trainer&inference_ui_cut.py
 
 ## License
 
-MIT License
+[MIT License](LICENCE)
